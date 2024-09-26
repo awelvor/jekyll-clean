@@ -13,4 +13,6 @@ Amicalement
 
 Jean-Marie
 Prévisions de Météo France
+
+![meteo](../images/meteo.png)
  
