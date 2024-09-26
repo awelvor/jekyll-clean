@@ -16,6 +16,3 @@ Prévisions de Météo France
 
 ![meteo](../images/meteo.png)
 
-![meteo](assets/images/meteo.png)
-![meteo](meteo.png)
- 
