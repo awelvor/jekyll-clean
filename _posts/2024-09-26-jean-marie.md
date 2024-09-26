@@ -15,4 +15,6 @@ Jean-Marie
 Prévisions de Météo France
 
 ![meteo](../images/meteo.png)
+
+![meteo](assets/images/meteo.png)
  
