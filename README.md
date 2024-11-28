@@ -1,9 +1,10 @@
                                             
 
                                     BILAN DES SORTIES CYCLO 2024
-#DECEMBRE 2023#
+# DECEMBRE 2023
 
-Vendredi 1 er décembre 2023 :  réunion annuelle des cyclos, salle du Kreizker, à partir de 9h30,
+## Vendredi 1 er décembre 2023 :
+réunion annuelle des cyclos, salle du Kreizker, à partir de 9h30,
  Présence du nouveau Président Gérard Mellin, de la cyclote- trésorière, Nadine Buzulier  et de 22 cyclos sur 30 inscrits.
 Robert remercie tous ses cyclos pour leur présence, Il demande d'applaudir le nouveau Président qui a accepté une lourde charge bénévolement et en profite aussi pour rendre hommage à l'ancienne Présidente Germaine Jaouen qui a tenu les rênes du Kreizker pendant 8 ans avec dévouement et abnégation, Applaudissements pour Germaine,
 Applaudissements aussi pour Nadine Buzulier notre trésorière qui assume toujours bénévolement une tâche ingrate et pour la nouvelle secrétaire Myriam,
@@ -18,7 +19,8 @@ Au menu : Velouté de potiron, feuilleté de poisson, frites/rosbeef, fromages 
 Le repas se termine à 15 h. Nous sommes repus. Bravo à tous pour cette journée amicale !
 Lundi 4/12 : Pluie et vents forts, Sortie remise
 
-Mercredi 6/12 : C'est la meilleure journée de la semaine, C'est le meilleur moment pour aller rouler. Température à 9 °C et à 7°C en ressenti, Temps nuageux mais ni vent fort ni pluie,
+## Mercredi 6/12 :
+C'est la meilleure journée de la semaine, C'est le meilleur moment pour aller rouler. Température à 9 °C et à 7°C en ressenti, Temps nuageux mais ni vent fort ni pluie,
 9 part, 48 km,
 Michel A a eu un vélo électrique avec le Père Noël ! C'est la grande nouvelle !
 Un hélicoptère nous survole pendant 5 bonnes minutes à Pluzunet, à faible altitude ( pour EDF ? )
@@ -26,7 +28,7 @@ Retour à Lannion pour 16h45, Il est temps de rentrer ! La nuit vient vite, Cer
 Mylène, Nadine et Jean-François ont fait une sortie de 55 km le samedi de la semaine précédente
 Sprint de Boutil : Pascal, Roland, Nadine
 
-Lundi  11/2 : Le Président du Kreizker est venu nous saluer aux Ursulines et nous a dit qu'on était courageux,
+## Lundi  11/2 : Le Président du Kreizker est venu nous saluer aux Ursulines et nous a dit qu'on était courageux,
 Temps doux ( 13 ° C ) mais bien couvert, Pas de vent, Un peu de crachin au départ et une déviation devant le commissariat qui oblige à modifier le circuit pour atteindre Boutil
 Philippe nous apprend que Daniel G président de l'ASPTT cyclo a été renversé par une voiture qui lui a refusé la priorité à Plouaret, Il a été conduit par les pompiers à l'hôpital pour observation, Rien de grave, heureusement
 Au retour, le pneu arrière de Roland se met à se dégonfler à 4 km de Boutil, Roland  va le gonfler plusieurs fois pour essayer de rentrer, Mais il devra capituler à Boutil, Francis rentre chez lui et a l'intention d'aller reconduire Roland en voiture,
@@ -34,14 +36,14 @@ Mais Roland trouve un ami entre temps pour le ramener et prévient Francis
 Merci à Francis et au copain ! Rita a prêté sa grande pompe, Merci Rita !Alain a aidé Roland, Merci Alain !  
 Retour à 17 h, Il est plus que temps !
 Sprint de Boutil : Pascal, Jean-François, Nadine    
-Lundi 18/12 : Dernière sortie de l'année 2023, avant la trêve des confiseurs, Noël et le jour de l'an tombant un lundi, RDV le 8 janvier 2024 pour de nouvelles aventures
+## undi 18/12 : Dernière sortie de l'année 2023, avant la trêve des confiseurs, Noël et le jour de l'an tombant un lundi, RDV le 8 janvier 2024 pour de nouvelles aventures
 Temps  gris, 12 °C, 12 part, 44 km
 Alain et Yves nous quittent à Rospez et vont rouler à leur allure sur Pluzunet/Tonquédec
 Retour du groupe à 16h30 largement avant la nuit
 Sprint de Boutil : Philippe suce les roues et coiffe Jean-François et Roland sur la ligne, 
 
-JANVIER 2024
- Lundi 8/01 : 
+# ANVIER 2024
+##Lundi 8/01 : 
  Robert souhaite la bonne année à toutes et à tous, par mail, et espère être encore avec ses cyclos en 2025 et réciproquement. 
  C'est la reprise, après 3 semaines de trêve. Robert a prévu  un petit circuit de 45 km, sans grandes difficultés pour une remise en jambes. Temps ensoleillé mais froid ( 4 °) au départ et ( 2 °) et ciel menaçant au retour, Bise de NE, Pourtant 10 cyclos au départ,
 Météo en vigilance jaune pour risque de neige qui tombera le lendemain,
