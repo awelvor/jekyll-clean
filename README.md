@@ -1,7 +1,7 @@
                                             
 
                                     BILAN DES SORTIES CYCLO 2024
-DECEMBRE 2023
+#DECEMBRE 2023#
 
 Vendredi 1 er décembre 2023 :  réunion annuelle des cyclos, salle du Kreizker, à partir de 9h30,
  Présence du nouveau Président Gérard Mellin, de la cyclote- trésorière, Nadine Buzulier  et de 22 cyclos sur 30 inscrits.
@@ -17,6 +17,7 @@ Tous les participants ainsi que quelques conjoints se retrouvent au restaurant L
 Au menu : Velouté de potiron, feuilleté de poisson, frites/rosbeef, fromages et desserts variés. Boissons à volonté. Café.
 Le repas se termine à 15 h. Nous sommes repus. Bravo à tous pour cette journée amicale !
 Lundi 4/12 : Pluie et vents forts, Sortie remise
+
 Mercredi 6/12 : C'est la meilleure journée de la semaine, C'est le meilleur moment pour aller rouler. Température à 9 °C et à 7°C en ressenti, Temps nuageux mais ni vent fort ni pluie,
 9 part, 48 km,
 Michel A a eu un vélo électrique avec le Père Noël ! C'est la grande nouvelle !
@@ -24,6 +25,7 @@ Un hélicoptère nous survole pendant 5 bonnes minutes à Pluzunet, à faible al
 Retour à Lannion pour 16h45, Il est temps de rentrer ! La nuit vient vite, Certains ont allumé leurs lumières,
 Mylène, Nadine et Jean-François ont fait une sortie de 55 km le samedi de la semaine précédente
 Sprint de Boutil : Pascal, Roland, Nadine
+
 Lundi  11/2 : Le Président du Kreizker est venu nous saluer aux Ursulines et nous a dit qu'on était courageux,
 Temps doux ( 13 ° C ) mais bien couvert, Pas de vent, Un peu de crachin au départ et une déviation devant le commissariat qui oblige à modifier le circuit pour atteindre Boutil
 Philippe nous apprend que Daniel G président de l'ASPTT cyclo a été renversé par une voiture qui lui a refusé la priorité à Plouaret, Il a été conduit par les pompiers à l'hôpital pour observation, Rien de grave, heureusement
@@ -36,7 +38,8 @@ Lundi 18/12 : Dernière sortie de l'année 2023, avant la trêve des confiseurs
 Temps  gris, 12 °C, 12 part, 44 km
 Alain et Yves nous quittent à Rospez et vont rouler à leur allure sur Pluzunet/Tonquédec
 Retour du groupe à 16h30 largement avant la nuit
-Sprint de Boutil : Philippe suce les roues et coiffe Jean-François et Roland sur la ligne,                                                          
+Sprint de Boutil : Philippe suce les roues et coiffe Jean-François et Roland sur la ligne, 
+
 JANVIER 2024
  Lundi 8/01 : 
  Robert souhaite la bonne année à toutes et à tous, par mail, et espère être encore avec ses cyclos en 2025 et réciproquement. 
