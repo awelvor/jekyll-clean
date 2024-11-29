@@ -42,8 +42,8 @@ Alain et Yves nous quittent à Rospez et vont rouler à leur allure sur Pluzunet
 Retour du groupe à 16h30 largement avant la nuit
 Sprint de Boutil : Philippe suce les roues et coiffe Jean-François et Roland sur la ligne, 
 
-# ANVIER 2024
-##Lundi 8/01 : 
+# JANVIER 2024
+## Lundi 8/01 : 
  Robert souhaite la bonne année à toutes et à tous, par mail, et espère être encore avec ses cyclos en 2025 et réciproquement. 
  C'est la reprise, après 3 semaines de trêve. Robert a prévu  un petit circuit de 45 km, sans grandes difficultés pour une remise en jambes. Temps ensoleillé mais froid ( 4 °) au départ et ( 2 °) et ciel menaçant au retour, Bise de NE, Pourtant 10 cyclos au départ,
 Météo en vigilance jaune pour risque de neige qui tombera le lendemain,
@@ -62,7 +62,7 @@ Des travaux de téléphonie sur Kerscoul nous obligent à mettre pied à terre
 Retour à 17h15, Il commence à faire froid,
 
 Sprint remporté par Jean-François devant Roland
-Lundi 22/01 : SN de 51 km ( 12 part. Surprise ! ) malgré un temps en vigilance jaune pour cause de vents forts  mais ensoleillé et doux ( 13 ° C ).
+## Lundi 22/01 : SN de 51 km ( 12 part. Surprise ! ) malgré un temps en vigilance jaune pour cause de vents forts  mais ensoleillé et doux ( 13 ° C ).
 Jean-Marie est venu nous saluer avant d'aller jouer au bridge, c'est plus confortable,
 Circuit légèrement modifié, Robert emprunte la voie verte qui mène de Kerboriou à la sortie de Penvenan,
 Retour très difficile contre le vent qui souffle à plus de 50km/h parfois,
@@ -73,7 +73,7 @@ Alain, qui a eu un VTC électrique, chute dans le passage entre Intermarché St 
 Plus de peur que de mal, Seul son nez a été éraflé,,,
 
 
-VENDREDI 26/01 : Germaine, l'ex présidente du Kreizker, invite tous les adhérents au vin d'honneur qu'elle offre à dans le hall de la salle des sports, pour son départ
+## VENDREDI 26/01 : Germaine, l'ex présidente du Kreizker, invite tous les adhérents au vin d'honneur qu'elle offre à dans le hall de la salle des sports, pour son départ
 Au moins 70 présents environ dont une dizaine de cyclos,
 Discours et cadeaux
 Merci Germaine pour ces 8 années de dévouement à la tête de l'association et pour les petits fours et le pétillant !
@@ -83,21 +83,21 @@ Jean-François remporte le sprint de Boutil devant Pascal et Nadine
                         
 FEVRIER 2024:
 
-05/02 : Temps gris et maussade, 10 °C, Petit crachin le matin qui a démotivé Nadine et Jean-François, venus cependant nous saluer aux Ursulines
+## 05/02 : Temps gris et maussade, 10 °C, Petit crachin le matin qui a démotivé Nadine et Jean-François, venus cependant nous saluer aux Ursulines
 SN ( 53 km 10 part )
 Jean-Marie nous annonce que Monique et lui ont eu un nouveau petit-fils nommé Augustin la semaine dernière après la naissance d'un petit Marius en septembre,
 Meilleurs vœux à ces nouveaux terriens
 Pascal remporte le sprint de Boutil devant Roland et Rita, Bravo à elle !
-12/02 : Beau temps ensoleillé, mais un peu frais (10 °C.) SN ( 52 km – 15 part ), Circuit inédit le long des voies ferrées Lannion/ Plouaret et Paris/ Brest
+## 12/02 : Beau temps ensoleillé, mais un peu frais (10 °C.) SN ( 52 km – 15 part ), Circuit inédit le long des voies ferrées Lannion/ Plouaret et Paris/ Brest
 Sprint de Boutil remporté par Pascal devant Jean-François et Patrice
-  19/02 :  Temps très gris, avec un brouillard stagnant qui se transformera en crachin dans les derniers 20 derniers km, Nous rentrerons trempés, 
+## 19/02 :  Temps très gris, avec un brouillard stagnant qui se transformera en crachin dans les derniers 20 derniers km, Nous rentrerons trempés, 
 Robert écourtera le circuit ( 45 km quand même au lieu des 50 km prévus ) 10 °C et vent sensible sur le retour,
 12 part, mais Yves qui n'a pas beaucoup roulé ira faire un petit tour, à partir de Rospez, en solo, sur Tonquédec
 4 cyclos au retour à Boutil, les autres ayant préféré rentrer au plus près de leur domicile à cause de la pluie
 Samedi 24/02 :    Cela fait 2 ans, jour pour jour, que  l.a Russie de Vladimir Poutine a envahi l’Ukraine, jetant des millions de réfugiés sur les routes, faisant des centaines de milliers de morts de part et d'autres. Cette guerre insensée est loin d'être terminée !
-26/02 : C'est la tempête avec des vents à plus de 100 km/h,
+## 26/02 : C'est la tempête avec des vents à plus de 100 km/h,
 Sortie reportée au mardi 27/02
-Mardi 27/02 : Beau temps nuageux, 10 ° C, 9 part, 52 km,
+## Mardi 27/02 : Beau temps nuageux, 10 ° C, 9 part, 52 km,
 Jean-Marie nous attend à la sortie de Rospez à Kerhuel,
 Petite fantaisie : Roland propose d'éviter la côte de Pluzunet en passant par Rubunet Sauz. Pourquoi pas si c'est plus facile ?
 Un automobiliste nous frôle au niveau des éoliennes, on l'a gêné sur sa route, Loukez !
@@ -107,7 +107,7 @@ Sprint de Boutill remporté par Pascal devant Jean-François et Roland
                                                                          
 MARS 2024 :	
 
-4/03 : Météo en vigilance jaune pour vents forts et averses, Sortie reportée au mardi 5/03
+## 4/03 : Météo en vigilance jaune pour vents forts et averses, Sortie reportée au mardi 5/03
 Mardi 05/03 :  Temps convenable avec risque d'averses, mais vent sensible qui nous pousse à l'aller et nous freine au retour.
  5 part, Robert décide donc d'écourter le circuit, Trélévern, Trévou, Trestel, Penvenan sont shuntés, 42 km au lieu des 52 km prévus
 Mylène s'arrête au cimetière de Camlez sur la tombe d'un ami de son frère enterré la veille,
@@ -115,7 +115,7 @@ Jean est en forme : 1 /en passant le hameau de Le Cran il pensait qu'on allait 
 2/ En passant devant un hangar de roundballers bien rangés, il annonce : ça me botte !
 Pascal remporte le sprint de Boutil devant Philippe, Robert se retrouive 3 ème, les autres ayant des VAE,
 Quelques gouttes à Boutil, Retour pour 16h30
-11/03 : SN ( 9 part. 56 km au lieu des 52 km prévus). Temps globalement nuageux avec averses possibles.  Parcours en partie inédit,
+## 11/03 : SN ( 9 part. 56 km au lieu des 52 km prévus). Temps globalement nuageux avec averses possibles.  Parcours en partie inédit,
 Jean-Marie est venu nous saluer aux Ursulines, Il va jouer au bridge ! Il est champion de Bretagne de sa catégorie ! Bravo à lui !!!
 Jean-François remporte le sprint de Boutil devant Nadine 
 18/03 :  SN ( 50 km 15 part ), Temps couvert, 15 ° C
@@ -126,7 +126,7 @@ Robert  se pose une question : doit-il aller à droite ? Ou aller à gauche ?
 
 Il choisit la gauche hélas, et c'est Michel A qui se dévoue pour aller chercher Pascal et Patrice partis devant, Heureusement qu'il a un vélo élmectrique !
 Pascal remporte le sprint de Boutil devant Jean-François et Roland
- 25/03 :  SN ( 45 km. 10 part ).
+ ## 25/03 :  SN ( 45 km. 10 part ).
 La météo annonçait de la pluie, Elle devait tomber à 11 h, puis à 15 h, puis à 16 h, Elle ne tombera que le lendemain,
 Jean-Marie est venu nous saluer aux Ursulines, Il ne roulera pas, le champion de bridge doit parfaire sa préparation !
 Nicole et Pierre nous quittent à Cavan, Ils rentreront par Pluzunet
